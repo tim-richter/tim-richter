@@ -1,7 +1,5 @@
-# Hi there 👋
+<h1 align="center">Hi 👋, I'm Tim</h1>
+<h3 align="center">Passionate frontend developer from Berlin, Germany.</h3>
 
+<p align="left"><img src="https://konpa.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="20" height="20"/> <img src="https://konpa.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="20" height="20"/> <img src="https://konpa.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="20" height="20"/> <img src="https://konpa.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" alt="java" width="20" height="20"/> <img src="https://konpa.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="20" height="20"/> <img src="https://konpa.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg" alt="typescript" width="20" height="20"/></p><p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=tim-richter&show_icons=true" alt="tim-richter" /> </p>
 
-
-<img src="https://user-images.githubusercontent.com/43145310/87460655-78b19580-c60d-11ea-99a6-518cb1a0ab4c.gif">
-
-![Tim's github stats](https://github-readme-stats.vercel.app/api?username=tim-richter)
