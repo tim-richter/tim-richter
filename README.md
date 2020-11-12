@@ -2,7 +2,7 @@
 
 ```javascript
 const tim = {
-  code: [ Javascript, Typescript, HTML, CSS, Golang, Java ],
+  code: [ Javascript, Typescript, CSS, Golang, Java ],
   tools: [ React, Redux, Node, Storybook, Gatsby, Jest, Docker ],
   studies: 'Media Computer Science at Beuth Hochschule Berlin',
 }
