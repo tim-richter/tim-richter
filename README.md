@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tim</h1>
 
+[![Tim's GitHub Banner](./GitHubBanner.png)](https://timrichter.dev)
+
 ```javascript
 const tim = {
   code: [ Javascript, Typescript, CSS, Golang, Java ],
