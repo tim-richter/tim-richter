@@ -1,4 +1,4 @@
-[![Tim's GitHub Banner](./GithubBanner.png)](https://timrichter.dev)
+[![Tim's GitHub Banner](./GithubBanner.png)](https://timrichter.dev) 
 
 ```javascript
 const tim = {
