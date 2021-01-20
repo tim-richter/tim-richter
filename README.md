@@ -1,4 +1,4 @@
-[![Tim's GitHub Banner](./Banner.png)](https://timrichter.dev) 
+<h1 align="center">Hi 👋, I'm Tim</h1>
 
 ```javascript
 const tim = {
