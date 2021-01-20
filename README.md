@@ -1,6 +1,4 @@
-<h1 align="center">Hi 👋, I'm Tim</h1>
-
-[![Tim's GitHub Banner](./GitHubBanner.png)](https://timrichter.dev)
+[![Tim's GitHub Banner](./GithubBanner.png)](https://timrichter.dev)
 
 ```javascript
 const tim = {
