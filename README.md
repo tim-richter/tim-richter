@@ -15,7 +15,7 @@
 </a>  
 </div>
 
-### <div align="center">Full-stack developer 👨‍💻 Working Student 🚀</div>  
+### <div align="center">Full-stack developer 👨‍💻</div>  
  
 
 ```javascript
