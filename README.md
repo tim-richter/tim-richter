@@ -28,6 +28,3 @@ const tim = {
 
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=tim-richter&show_icons=true" alt="tim-richter" /> </p>
-
