@@ -20,11 +20,8 @@
 
 ```javascript
 const tim = {
-  code: [ 'Javascript', 'Typescript', 'CSS', 'Golang', 'Java' ],
-  tools: [ 'React', 'Node.js', 'Next.js', 'Jest', 'Docker' ],
+  code: [ 'Javascript', 'Typescript', 'Golang', 'Java' ],
+  tools: [ 'React', 'Node.js', 'Next.js' 'Docker' ],
   studies: 'Media Computer Science at Beuth Hochschule Berlin',
 }
 ```
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
