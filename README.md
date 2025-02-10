@@ -21,7 +21,6 @@
 ```javascript
 const tim = {
   code: [ 'Javascript', 'Typescript', 'Golang', 'Java' ],
-  tools: [ 'React', 'Node.js', 'Next.js' 'Docker' ],
-  studies: 'Media Computer Science at Beuth Hochschule Berlin',
+  tools: [ 'React', 'Node.js', 'Next.js' 'Docker' ]
 }
 ```
